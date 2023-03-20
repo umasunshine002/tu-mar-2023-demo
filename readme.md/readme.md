@@ -2,7 +2,7 @@
 
 ## Date Time:  11:30 am Wednesday, 23 March 2023 (IST)
 
-![Thulluru Uma Devi](Documentation/Images/pic23.png)
+![Thulluru Uma Devi](Documentation/Images/mainpic.png)
 
 ## Java Training acquired
 
@@ -37,7 +37,7 @@
 
 ## Output
 
-![bstpic](Documentation/Images/bstpic.png)
+![bstpic](Documentation/Images/Screenshot%202023-03-21%20012116.png)
 
 ## MYSQL Work Bench
 
