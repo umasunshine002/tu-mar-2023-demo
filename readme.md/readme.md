@@ -1,6 +1,6 @@
 # Thulluru Uma Devi
 
-## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
+## Date Time:  5:54 pm Saturday, 22 March 2023 (IST)
 
 ![Thulluru Uma Devi](Documentation/Images/pic23.png)
 
@@ -24,7 +24,7 @@
 
 ## Binary Search Tree
 
-> 
+> ![BST Image](Documentation/Images/BSTSearch.png)
 
 ## Installation
 
