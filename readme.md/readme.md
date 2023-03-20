@@ -2,7 +2,7 @@
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Thulluru Uma Devi](Documentation/Images/pic1.png)
+![Thulluru Uma Devi](Documentation/Images/pic23.png)
 
 ## Java Training acquired
 
@@ -12,7 +12,7 @@
  
 > 3. JAVA: Good understanding of OOPS concepts and JDBC.Currently, at a beginner’s level, but constantly working to build and sharpen my skills that can contribute to overall growth.
 
-## Pull Requets process, Continues Integration and Continues Delivery
+## Pull Requets process, Continuos Integration and Continuos Delivery
 
 **References**
 
@@ -55,8 +55,8 @@
 
 ## JDBC CRUD Operations with MYSQL
 
-> Creation of CustomerDB database in MYSQL.
-> Creation of a table called Customer, prepopulated with few rows.
+> 1. Creation of CustomerDB database in MYSQL.
+> 2. Creation of a table called Customer, prepopulated with few rows.
 
 *Operations Performed:*
 
@@ -65,11 +65,12 @@
 > 3. Display Records
 > 4. Display All Records
 
-> update(): used to update a single record 
-> updateMultiple(): used to update multiple records according to the user convenience.
+*Description*
 
-> Display(): used to display a single record 
-> DisplayAll(): used to update multiple records according to the user convenience.
+> 1. update(): used to update a single record 
+> 2. updateMultiple(): used to update multiple records according to the user convenience.
+> 3. Display(): used to display a single record 
+> 4. DisplayAll(): used to update multiple records according to the user convenience.
 
 ## Output
 
