@@ -2,7 +2,7 @@
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Thulluru Uma Devi|50x50](Documentation/Images/umapic.jpg)
+![Thulluru Uma Devi](Documentation/Images/uma%20screen.png)
 
 ## Java Training acquired
 
@@ -14,14 +14,62 @@
 
 ## Pull Requets process, Continues Integration and Continues Delivery
 
-![Pull Request|150x150](Documentation/Images/PR-CI-CD.png)
+**References**
+
+>1. https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops
+>2. https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline
+
+![SQL Azure|50x50](Documentation/Images/PR-CI-CD.png)
+![SQL Azure|50X50](Documentation/Images/Azure2.png)
 
 ## Binary Search Tree
 
-> 1. Topic-1
-> 1. Topic-2
+> 
 
-## JDBC with MYSQL CRUD Operations
-> 1. Topic-1
-> 1. Topic-2
+
+## Installation
+
+> To use this BinarySearchTree, you can follow the steps below:
+
+> 1. Clone the repository. You can also download the zip file and extract it to your preferred directory.
+> 2. Open the project in your favorite Java IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans). Ensure that you have installed the necessary dependencies required for the project to run.
+> 3. Run the Main file.
+
+## Output
+
+
+## MYSQL Work Bench
+
+> 1. MySQL Workbench is a visual database design tool and administration tool for MySQL databases. It allows users to visually design, model, create and manage databases. MySQL Workbench provides a graphical user interface (GUI) to perform a variety of tasks such as creating, editing and deleting database objects, executing SQL queries, designing and generating data models, and managing database users and permissions.
+
+*Installing MYSQL:*
+
+> 1. Download the MySQL Installer from the official MySQL website: https://dev.mysql.com/downloads/installer/
+> 2. Configure the MySQL Server, including the data directory, port number, authentication method, etc. 
+
+## Connecting JDBC with MYSQL
+
+> 1. Download the MySQL Connector/J JDBC driver from the official MySQL website: https://dev.mysql.com/downloads/connector/j/.
+> 2. Add the path to the MySQL Connector/J JAR file to your classpath.
+
+## JDBC CRUD Operations with MYSQL
+
+> We have created CustomerDB database in MYSQL.
+> We have created a single table called Customer and prepopulated with few rows.
+
+*Operations Performed:*
+
+> 1. Update Records
+> 2. Update Multiple Records
+> 3. Display Records
+> 4. Display All REcords
+
+> I created update(), which is used to update a single record and updateMultiple() ,which is used to update multiple records according to the user convenience.
+
+> I created Display(), which is used to display a single record and DisplayAll() ,which is used to update multiple records according to the user convenience.
+
+## Output
+
+
+
 
