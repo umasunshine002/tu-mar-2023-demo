@@ -1,6 +1,6 @@
 # Thulluru Uma Devi
 
-## Date Time:  5:54 pm Saturday, 22 March 2023 (IST)
+## Date Time:  11:30 am Wednesday, 23 March 2023 (IST)
 
 ![Thulluru Uma Devi](Documentation/Images/pic23.png)
 
@@ -23,8 +23,9 @@
 ![Azure](Documentation/Images/Azure2%20-%20Copy.png)
 
 ## Binary Search Tree
+> 1. A rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree.
 
-> ![BST Image](Documentation/Images/BSTSearch.png)
+> ![bst](Documentation/Images/BSTSearch.png)
 
 ## Installation
 
@@ -36,6 +37,7 @@
 
 ## Output
 
+![bstop](Documentation/Images/bstpic.png)
 
 ## MYSQL Work Bench
 
