@@ -37,7 +37,7 @@
 
 ## Output
 
-![bstop](Documentation/Images/bstpic.png)
+![bstpic](Documentation/Images/bstpic.png)
 
 ## MYSQL Work Bench
 
