@@ -2,7 +2,7 @@
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Thulluru Uma Devi](Documentation/Images/uma%20screen.png)
+![Thulluru Uma Devi](Documentation/Images/pic1.png)
 
 ## Java Training acquired
 
@@ -19,13 +19,12 @@
 >1. https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops
 >2. https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline
 
-![SQL Azure|50x50](Documentation/Images/PR-CI-CD.png)
-![SQL Azure|50X50](Documentation/Images/Azure2.png)
+![SQL Azure](Documentation/Images/PR-CI-CD.png)
+![Azure](Documentation/Images/Azure2%20-%20Copy.png)
 
 ## Binary Search Tree
 
 > 
-
 
 ## Installation
 
@@ -47,6 +46,8 @@
 > 1. Download the MySQL Installer from the official MySQL website: https://dev.mysql.com/downloads/installer/
 > 2. Configure the MySQL Server, including the data directory, port number, authentication method, etc. 
 
+![MYSQL](Documentation/Images/mysqlss.png)
+
 ## Connecting JDBC with MYSQL
 
 > 1. Download the MySQL Connector/J JDBC driver from the official MySQL website: https://dev.mysql.com/downloads/connector/j/.
@@ -54,22 +55,24 @@
 
 ## JDBC CRUD Operations with MYSQL
 
-> We have created CustomerDB database in MYSQL.
-> We have created a single table called Customer and prepopulated with few rows.
+> Creation of CustomerDB database in MYSQL.
+> Creation of a table called Customer, prepopulated with few rows.
 
 *Operations Performed:*
 
 > 1. Update Records
 > 2. Update Multiple Records
 > 3. Display Records
-> 4. Display All REcords
+> 4. Display All Records
 
-> I created update(), which is used to update a single record and updateMultiple() ,which is used to update multiple records according to the user convenience.
+> update(): used to update a single record 
+> updateMultiple(): used to update multiple records according to the user convenience.
 
-> I created Display(), which is used to display a single record and DisplayAll() ,which is used to update multiple records according to the user convenience.
+> Display(): used to display a single record 
+> DisplayAll(): used to update multiple records according to the user convenience.
 
 ## Output
 
-
+![Output](Documentation/Images/jdbcop.png)
 
 
