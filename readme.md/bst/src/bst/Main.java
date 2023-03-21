@@ -1,12 +1,7 @@
 package bst;
-import java.util.*;
-import bst.BinaryNode;
-import bst.BinarySearchTree;
-
 public class Main {
 	 public static void main(String[] args) {
 		  BinarySearchTree b = new BinarySearchTree();
-		  BinaryNode root = null;  
 		  b.insert(5);
 		  b.insert(53);
 		  b.insert(1);
@@ -27,7 +22,7 @@ public class Main {
 		  b.levelOrder();
 		  System.out.println();
 		  b.search(b.root,26);
-		  BinaryNode b1= b.minimumNode(b.root);
+		  BinaryNode b1= BinarySearchTree.minimumNode(b.root);
 		  System.out.println("The minimum value is "+b1.value);
 		  b.deleteNode(b.root, 5);
 		  b.deleteNode(b.root, 45);

@@ -2,7 +2,6 @@ package bst;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import bst.BinaryNode;
 public class BinarySearchTree {
   public BinaryNode root;
 
@@ -14,7 +13,6 @@ public class BinarySearchTree {
     if (currentNode == null) {
       BinaryNode newNode = new BinaryNode();
       newNode.value = value;
-      // System.out.println("The value successfully inserted");
       return newNode;
     } else if (value <= currentNode.value) {
       currentNode.left = insert(currentNode.left, value);
